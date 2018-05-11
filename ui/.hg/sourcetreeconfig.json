@@ -1,0 +1,31 @@
+{
+  "$id": "1",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2018-05-07T15:57:28.650708+08:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "RemoteProjectLinks": [
+    {
+      "$id": "2",
+      "BaseUrl": "https://www.bitbucket.org",
+      "Identifier": "Unity-Technologies/ui",
+      "RemoteName": "default",
+      "Type": 1,
+      "Username": "huzhengfei0316",
+      "CloneUrl": null,
+      "DisplayName": "default: https://www.bitbucket.org"
+    }
+  ],
+  "SidebarExpandedItems": [
+    "文件状态",
+    "分支",
+    "分支/shana"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": []
+}
